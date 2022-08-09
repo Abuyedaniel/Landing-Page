@@ -138,13 +138,13 @@ main {
 }
 
 .left-pic {
-    width:350px;
+    width:395px;
     position: absolute;
     left: -100px;
     top: 120px;
 }
 .right-pic {
-    width: 350px;
+    width: 395px;
     position: absolute;
     right: -100px;
     top: 120px;
